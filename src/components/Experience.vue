@@ -79,7 +79,7 @@ const onFileChange = (event) => {
         </div>
 
         <div class="link-cv-container">
-            <a href="https://drive.google.com/file/d/16Ry3X5jHtfNNi7x-F2ydS5mP7t8dqFCn/view?usp=sharing" target="_blank" class="link-cv">{{ $t('resume') }}
+            <a href="https://drive.google.com/file/d/10a2X8fk9vlF0fVCqog3uwZjvoPj3zmUX/view?usp=sharing" target="_blank" class="link-cv">{{ $t('resume') }}
                 <v-icon class="link-icon" name="bi-arrow-right" label="icon arrow right" />
             </a>
             
